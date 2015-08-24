@@ -1,2 +1,2 @@
-# codingground
-Main Repository for Coding Ground
+# GitRekt
+Educational Purposes Only!
